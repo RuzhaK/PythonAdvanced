@@ -18,5 +18,5 @@ print(f"Last is {kids_queue.popleft()}")
 
 
 
-dsjk
+
 

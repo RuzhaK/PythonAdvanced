@@ -1,0 +1,7 @@
+DEBUG:root:Calculating fibonacci of 1
+DEBUG:root:prev_fibonacci=1
+DEBUG:root:Calculating fibonacci of 0
+DEBUG:root:prev_fibonacci=0
+DEBUG:root:prev_fibonacci=1
+DEBUG:root:Calculating fibonacci of 1
+DEBUG:root:prev_fibonacci=1
